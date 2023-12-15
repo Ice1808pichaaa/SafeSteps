@@ -1,9 +1,6 @@
 # SafeSteps
 ## My CS50x Final Project
-
 ## Table of Contents <br>
-https://github.com/Ice1808pichaaa/SafeSteps/files/13681129/CS50x.pdf
-
 - [Video Demo](#video-demo)
 - [Description](#description)
   - [Background](#background)
