@@ -38,8 +38,4 @@ The application includes the following key features:
 ### How to Use
 Users follow a sequence of balancing exercises, guided by the countdown timer and audio instructions. Each exercise aims to improve muscle strength and overall balance. It is recommended to use the application regularly to experience long-term benefits.
 
-SafeSteps is not a substitute for professional medical advice. Users with existing health conditions should consult their healthcare providers before incorporating new exercises into their routine.
-
-**Note:** The application's effectiveness may vary among individuals. Consistency and commitment to the exercises are key to achieving positive results.
-
 By creating SafeSteps, the developer hopes to contribute to the well-being of older adults in Thailand and beyond, empowering them to lead healthier, more active lives.
